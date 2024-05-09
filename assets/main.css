@@ -90,6 +90,12 @@ a,
   padding: 3px;
 }
 
+.blog-full {
+  max-width:50%;
+  margin:0 auto 2rem;
+  display:block;
+}
+
 
 /*@media (min-width: 1024px) {
   body {
