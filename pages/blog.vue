@@ -11,8 +11,16 @@
   <NuxtLink to="/blog20240509">
       <div class="hig-box">
         <div class="flex">
-        <figure class="image"><img alt="anzu logo" class="logo" src="@/assets/purely.png" width="250" height="250" /></figure>
+        <figure class="image"><img alt="" class="logo" src="@/assets/purely.png" width="250" height="250" /></figure>
         <b1 class="text fonts">遊戯王マスターデュエル<br/><m1>自己満デッキ紹介()</m1></b1>
+    </div>
+    </div>
+  </NuxtLink>
+  <NuxtLink to="/blog20240515">
+      <div class="hig-box">
+        <div class="flex">
+        <figure class="image"><img alt="" class="logo" src="@/assets/techno_w.jpg" width="443" height="250" /></figure>
+        <b1 class="text fonts">古いゲーム倉庫<br/><m1>古いアーケード筐体がたくさんおいてあるゲームセンターに行った話</m1></b1>
     </div>
     </div>
   </NuxtLink>
