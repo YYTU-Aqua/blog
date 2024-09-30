@@ -24,6 +24,14 @@
     </div>
     </div>
   </NuxtLink>
+  <NuxtLink to="/blog20240930">
+      <div class="hig-box">
+        <div class="flex">
+        <figure class="image"><img alt="" class="logo" src="@/assets/DSC_0609.jpg" width="443" height="250" /></figure>
+        <b1 class="text fonts">PlayStation1を買った話<br/><m1>PS2も持っているのにPS1を買う謎</m1></b1>
+    </div>
+    </div>
+  </NuxtLink>
     </div>
   </template>
 
